@@ -42,13 +42,6 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
 </p>
 
----
 
-### 📂 Proyectos en el Radar
-- **INNOVATEC:** Aplicación web dinámica desarrollada en PHP y MySQL que escaló con éxito hasta las fases nacionales.
-- **AI POWER:** Plataforma web dedicada a la organización, recopilación y clasificación inteligente de herramientas de IA.
-
----
-
-### 📫 Conéctate conmigo
+###  Conéctate conmigo
 - 📧 Correo: [marco.jimenez68888@gmail.com](mailto:marco.jimenez68888@gmail.com)
